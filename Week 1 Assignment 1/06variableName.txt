@@ -1,0 +1,4 @@
+_FLOAT = variable
+int = not a variable
+FLOAT = variable
+You will succeed = not a variable
